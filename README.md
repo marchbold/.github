@@ -14,18 +14,18 @@ I believe in standards, code reusability and open source and I take pride in pro
 
 ### Work 
 
-I am a founder of @distriqt.
+I am a founder of [@distriqt](https://github.com/distriqt).
 
-Currently I develop mobile applications and cross platform extensions/plugins for multiple frameworks including Unity, AIR, Haxe and Flutter.
+Currently I develop mobile applications and games and specialise in cross-platform extensions/plugins for multiple frameworks including Unity, AIR, Haxe and Flutter.
 
 - [AIR](https://airnativeextensions.com)
 - [Unity](https://assetstore.unity.com/publishers/46451)
 
-
-I am also looking for sponsorship or collaboration on the [AIR package manager](https://github.com/airnativeextensions/apm). Appreciate any help to get this tool into development:
-
-[:heart:  Sponsor](https://github.com/sponsors/marchbold)
-
+>
+> I am also looking for sponsorship or collaboration on the [AIR package manager](https://github.com/airnativeextensions/apm). Appreciate any help to get this tool into development:
+>
+> :heart: [Sponsor](https://github.com/sponsors/marchbold)
+>
 
 
 ### Contact Me
