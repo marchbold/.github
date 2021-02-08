@@ -1,6 +1,7 @@
 
 <h3 align="center">marchbold</h3>
 
+
 ### Background 
 
 I'm a physicist, a programmer and a self-confessed computer nerd.
@@ -10,6 +11,7 @@ Ever since my Dad introduced me to a soldering iron and a pcb schematic I've bee
 I started my programming career at a young age when I wrote my first game in basic on a Commodore 64. Since then my career has evolved to projects ranging from computational physics through to web and application development.
 
 I believe in standards, code reusability and open source and I take pride in producing simple and elegant solutions to coding problems.
+
 
 
 ### Work 
@@ -28,6 +30,7 @@ Currently I develop mobile applications and games and specialise in cross-platfo
 >
 
 
+
 ### Contact Me
 
 - Twitter: [@michaelarchbold](https://twitter.com/michaelarchbold)
@@ -37,7 +40,5 @@ Currently I develop mobile applications and games and specialise in cross-platfo
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marchbold&count_private=true&show_icons=true&theme=dracula)
-
-
 
 
