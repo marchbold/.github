@@ -16,7 +16,7 @@ I believe in standards, code reusability and open source and I take pride in pro
 
 I am a founder of @distriqt.
 
-Currently I am working on native plugins and extensions. Extending frameworks such as AIR, Unity, Haxe and Flutter to be able to access native functionality. 
+Currently I develop mobile applications and cross platform extensions/plugins for multiple frameworks including Unity, AIR, Haxe and Flutter.
 
 - [AIR](https://airnativeextensions.com)
 - [Unity](https://assetstore.unity.com/publishers/46451)
@@ -24,7 +24,7 @@ Currently I am working on native plugins and extensions. Extending frameworks su
 
 I am also looking for sponsorship or collaboration on the [AIR package manager](https://github.com/airnativeextensions/apm). Appreciate any help to get this tool into development:
 
-[:heart: Sponsor](https://github.com/sponsors/marchbold)
+[:heart:  Sponsor](https://github.com/sponsors/marchbold)
 
 
 
