@@ -24,7 +24,7 @@ Currently I develop mobile applications and games and specialise in cross-platfo
 >
 > I am also looking for sponsorship or collaboration on the [AIR package manager](https://github.com/airnativeextensions/apm). Appreciate any help to get this tool into development:
 >
-> :heart: [Sponsor](https://github.com/sponsors/marchbold)
+> [:heart:&nbsp;&nbsp;Sponsor](https://github.com/sponsors/marchbold)
 >
 
 
