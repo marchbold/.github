@@ -1,10 +1,8 @@
 
 <p align="center">
-    <a href="https://docs.airnativeextensions.com/" rel="noopener" target="_blank">
-        <img width="150" 
-            src="https://raw.githubusercontent.com/marchbold/marchbold/master/static/images/banner.png" 
-            alt="marchbold">
-    </a>
+    <img width="150" 
+        src="https://raw.githubusercontent.com/marchbold/marchbold/master/images/banner.png" 
+        alt="marchbold">
 </p>
 
 
