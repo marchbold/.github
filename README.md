@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img width="150" 
+    <img 
         src="https://raw.githubusercontent.com/marchbold/marchbold/master/images/banner.png" 
         alt="marchbold">
 </p>
