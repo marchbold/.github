@@ -52,7 +52,3 @@ I am a founder of [@distriqt](https://github.com/distriqt) along with [@koriner]
 - Email: [ma@distriqt.com](mailto:ma@distriqt.com)
 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marchbold&count_private=true&show_icons=true&theme=dracula)
-
-
